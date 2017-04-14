@@ -1,0 +1,16 @@
+[
+{
+  "modid": "votingserver",
+  "name": "Voting Server",
+  "description": "Allows retrieving a voting code and URL through the /vote command.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["JamiesWhiteShirt"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
